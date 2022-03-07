@@ -1,4 +1,26 @@
-div {
+/* div {
     background-color: red;
     color: white;
+} */
+p, div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd {
+    background-color:rgb(249, 148, 148)
+}
+
+.cooler {
+    font-size: 175%;
+}
+
+#two {
+    font-size: 200%;
+    color: blue
+}
+
+#four {
+    font-size: 120%;
+    font-weight: bolder;
+    background-color:rgb(151, 249, 148)
 }
