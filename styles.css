@@ -24,3 +24,17 @@ p, div {
     font-weight: bolder;
     background-color:rgb(151, 249, 148)
 }
+
+.blackbg .yellobg {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.blackbg {
+    background-color: rgb(0, 0, 0);
+    color: rgb(248, 246, 246)
+}
+
+.yellowbg {
+    background-color: #ffff00;
+}
